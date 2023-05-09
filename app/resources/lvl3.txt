@@ -1,0 +1,32 @@
+aslan	lion	+l_r+_m	larım	aslanlarım	my lions
+aslan	lion	+_n+d_n	ından	aslanından	from your lion
+aslan	lion	+_m_z+l_	ımızla	aslanımızla	with our lion
+aslan	lion	+_n_z+d_	ınızda	aslanınızda	on you guys' lion
+göl	lake	+_m+d_	ümde	gölümde	at/on my lake
+göl	lake	+l_r+_n	lerin	göllerin	your lake
+göl	lake	+_m_z+d_n	ümüzden	gölümüzden	from our lake
+göl	lake	+_n_z+l_	ünüzle	gölünüzle	with you guys' lake
+okul	school	+_m+l_	umla	okulumla	with my school
+okul	school	+_n+d_	unda	okulunda	at/on your school
+okul	school	+l_r+m_z	larımız	okullarımız	our schools
+okul	school	+n_z+d_n	unuzdan	okulunuzdan	from you guys' school
+dil	language	+l_r+_m	lerim	dillerim	my languages
+dil	language	+_n+d_n	inden	dilinden	from your language
+dil	language	+_m_z+l_	imizle	dilimizle	with our language
+dil	language	+_n_z+d_	inizde	dilinizde	in you guys' language
+ev	house	+_m+d_	imde	evimde	in/at my house
+ev	house	+l_r+_n	lerin	evlerin	your houses
+ev	house	+_m_z+d_n	imizden	evimizden	from our house
+ev	house	+_n_z+l_	inizle	evinizle	with you guys' house
+gül	rose	+_m+l_	ümle	gülümle	with my rose
+gül	rose	+_n+d_	ünde	gülünde	on your rose
+gül	rose	+l_r+_m_z	lerimiz	güllerimiz	our roses
+gül	rose	+_n_z+d_n	ünüzden	gülünüz	from you guys' rose
+yol	way	+l_r+_m	larım	yollarım	my ways
+yol	way	+_n+d_n	undan	yolun	from your way
+yol	way	+_m_z+l_	umuzla	yolumuzla	with our way
+yol	way	+_n_z+d_	unuzda	yolunuzda	on you guys' way
+sır	secret	+_m+d_	ımda	sırrımda	in my secret
+sır	secret	+l_r+_n	ların	sırların	your secrets
+sır	secret	+_m_z+d_n	ımızdan	sırrımızdan	because of our secret
+sır	secret	+_n_z+l_	ınızla	sırrınızla	with you guys' secret

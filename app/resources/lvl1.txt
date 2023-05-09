@@ -1,0 +1,32 @@
+aslan	lion	+l_r	lar	aslanlar	lions
+aslan	lion	+d_n	dan	aslandan	from the lion
+aslan	lion	+l_	la	aslanla	with the lion
+aslan	lion	+d_	da	aslanda	on the lion
+göl	lake	+l_r	ler	göller	lakes
+göl	lake	+d_n	den	gölden	from the lake
+göl	lake	+l_	le	gölle	with the lake
+göl	lake	+d_	de	gölde	on/at the lake
+okul	school	+l_r	lar	okullar	schools
+okul	school	+d_n	dan	okuldan	from the school
+okul	school	+l_	la	okulla	with the school
+okul	school	+d_	da	okulda	at the school
+dil	language	+l_r	ler	diller	languages
+dil	language	+d_n	den	dilden	from the language
+dil	language	+l_	le	dille	with (the) language
+dil	language	+d_	de	dilde	in the language
+ev	house	+l_r	ler	evler	houses
+ev	house	+d_n	den	evden	from the house
+ev	house	+l_	le	evle	with the house
+ev	house	+d_	de	evde	at/in the house
+gül	rose	+l_r	ler	güller	roses
+gül	rose	+d_n	den	gülden	from the rose
+gül	rose	+l_	le	gülle	with the rose
+gül	rose	+d_	de	gülde	on/in the rose
+yol	way	+l_r	lar	yollar	ways
+yol	way	+d_n	dan	yoldan	from the way
+yol	way	+l_	la	yolla	with the way
+yol	way	+d_	dan	yolda	on the way
+sır	secret	+l_r	lar	sırlar	secrets
+sır	secret	+d_n	dan	sırdan	from the secret
+sır	secret	+l_	la	sırla	with the secret
+sır	secret	+d_	da	sırda	on/in (the) secret

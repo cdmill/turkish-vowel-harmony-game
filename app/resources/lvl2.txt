@@ -1,0 +1,32 @@
+aslan	lion	+_m	ım	aslanım	my lion
+aslan	lion	+_n	ın	aslanın	your lion
+aslan	lion	+_m_z	ımız	aslanımız	our lion
+aslan	lion	+_n_z	ınız	aslanınız	you guys' lion
+göl	lake	+_m	üm	gölüm	my lake
+göl	lake	+_n	ün	gölün	your lake
+göl	lake	+_m_z	ümüz	gölümüz	our lake
+göl	lake	+_n_z	ünüz	gölünüz	you guys' lake
+okul	school	+_m	um	okulum	my school
+okul	school	+_n	un	okulun	your school
+okul	school	+m_z	umuz	okulumuz	our school
+okul	school	+n_z	unuz	okulunuz	you guys' school
+dil	language	+_m	im	dilim	my language
+dil	language	+_n	in	dilin	your language
+dil	language	+_m_z	imiz	dilimiz	our language
+dil	language	+_n_z	iniz	diliniz	you guys' language
+ev	house	+_m	im	evim	my house
+ev	house	+_n	in	evin	your house
+ev	house	+_m_z	imiz	evimiz	our house
+ev	house	+_n_z	iniz	eviniz	you guys' house
+gül	rose	+_m	üm	gülüm	my rose
+gül	rose	+_n	ün	gülün	your rose
+gül	rose	+_m_z	ümüz	gülümüz	our rose
+gül	rose	+_n_z	ünüz	gülünüz	you guys' rose
+yol	way	+_m	um	yolum	my way
+yol	way	+_n	un	yolun	your way
+yol	way	+_m_z	umuz	yolumuz	our way
+yol	way	+_n_z	unuz	yolunuz	you guys' way
+sır	secret	+_m	ım	sırrım	my secret
+sır	secret	+_n	ın	sırrın	your secret
+sır	secret	+_m_z	ımız	sırrımız	our secret
+sır	secret	+_n_z	ınız	sırrınız	you guys' secret

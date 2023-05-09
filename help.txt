@@ -1,0 +1,49 @@
+Front vowels are pronounced with the tongue positioned in the front of the
+mouth. 
+
+	i as in 'feet'
+	e as in 'bed'
+
+	ü similar to 'you' but with the lips rounded
+	ö similar to the vowel in 'her'
+
+Back vowels are pronounced with the tongue positioned in the back of the mouth.
+
+	ı as in 'gut', but with the tongue raised
+	a as in 'father'
+
+	u as in 'food'
+	o as in 'boat'
+
+---
+
+Some suffixes assimilate only in backness, ie front vowels or back vowels. 
+Suffixes that only assimilate in backness have alternations between e and a.
+
+An example of this is the plural suffix +l_r. In the first example below, 
+notice how the vowels in the stem çocuk are back and rounded. 
+Here, the vowel in the plural suffix +l_r surfaces as a, which is harmonized 
+in backness but is unrounded.
+
+In the second example below, notice how the vowel in the stem  gün is front 
+and rounded. Here, the vowel in the plural suffix +l_r surfaces as e, which is 
+harmonized for backness (both vowels are front vowels) but is unrounded.
+
+	çocuk+l_r -> çocuklar 'children'
+	gün+l_r -> günler 'days'
+
+Other suffixes assimilate in both backness and rounding. Suffixes that 
+assimilate in backness and rounding have alternations between i,ı,ü,u.
+
+An example of this is the first-person singular suffix +_m. In the first 
+example below, notice how the vowel in the stem gün is a front, rounded vowel. 
+The vowel in the first-person singular suffix +_m then assimilates in both 
+backness and rounding and surfaces as ü.
+
+In the second example, the vowel in the first-person singular suffix +_m 
+assimilates to the preceding vowel in the stem kol in backness and rounding, 
+and surfaces as u.
+
+	gün+_m -> günüm 'my day'
+	kol+_m -> kolum 'my arm'
+	
